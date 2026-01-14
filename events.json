@@ -1,0 +1,17 @@
+[
+  {
+    "title": "【免許更新】運転免許証の更新",
+    "deadline": "2026-02-28",
+    "notifyDaysBefore": [60, 30, 21]
+  },
+  {
+    "title": "【大学】ゼミレポート提出",
+    "deadline": "2026-01-15",
+    "notifyDaysBefore": [14, 7, 1]
+  },
+  {
+    "title": "【私用】友人との旅行",
+    "deadline": "2026-02-10",
+    "notifyDaysBefore": [30, 7]
+  }
+]
